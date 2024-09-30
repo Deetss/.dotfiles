@@ -16,6 +16,7 @@ However, some programs create default config files, so this might fail if git fi
 ```
 git clone --separate-git-dir=$HOME/.dotfiles https://github.com/Deetss/.dotfiles.git tmpdotfiles
 rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/
+fc-cache -fv
 rm -r tmpdotfiles
 ```
 There you go. No symlink mess.
