@@ -1,8 +1,10 @@
 # Pushing changes to the repository
+```
 cd $HOME
 dotfiles add .tmux.conf
 dotfiles commit -m "Add .tmux.conf"
 dotfiles push
+```
 
 # Setting Up a New Machine
 
