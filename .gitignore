@@ -46,3 +46,38 @@ Public/
 .config/*.log
 .local/.IdentityService/
 .local/state/
+.anydesk/                                                                           │        .config/gtk-3.0/
+.config/.gsd-keyboard.settings-ported                                               │        .config/gtk-4.0/
+.config/Code/                                                                       │        .config/i3/
+.config/QtProject.conf                                                              │        .config/ibus/
+.config/armcord/                                                                    │        .config/keepassxc/
+.config/configstore/                                                                │        .config/libreoffice/
+.config/dconf/                                                                      │        .config/libvirt/
+.config/discord/                                                                    │        .config/menus/
+.config/enchant/                                                                    │        .config/mimeapps.list
+.config/evince/                                                                     │        .config/monitors.xml
+.config/gnome-initial-setup-done                                                    │        .config/monitors.xml~
+.config/google-chrome/                                                              │        .config/notion-app/
+.config/gtk-3.0/                                                                    │        .config/pulse/
+.config/gtk-4.0/                                                                    │        .config/remmina/
+.config/i3/                                                                         │        .config/tiling-assistant/
+.config/libreoffice/                                                                │        .config/totem/
+.config/libvirt/                                                                    │        .config/ubuntu-xdg-terminals.list
+.config/menus/                                                                      │        .config/user-dirs.dirs
+.config/monitors.xml                                                                │        .config/user-dirs.locale
+.config/monitors.xml~                                                               │        .config/xdg-terminals.list
+.config/notion-app/                                                                 │        .config/yarn/
+.config/user-dirs.dirs                                                              │        .gitconfig
+.config/user-dirs.locale                                                            │        .gnome/
+.gitconfig                                                                          │        .gnupg/
+.gnome/                                                                             │        .lesshst
+.gnupg/                                                                             │        .local/.IdentityService/
+.lesshst                                                                            │        .local/state/
+.parsec-persistent/                                                                 │        .parsec-persistent/
+.profile                                                                            │        .profile
+.sudo_as_admin_successful                                                           │        .sudo_as_admin_successful
+.tool-versions                                                                      │        .tool-versions
+.var/                                                                               │        .var/
+.vim/                                                                               │        .vim/
+.yarnrc                                                                             │        .yarnrc
+go/
